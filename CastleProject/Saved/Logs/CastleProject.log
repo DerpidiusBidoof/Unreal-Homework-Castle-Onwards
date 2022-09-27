@@ -955,3 +955,12 @@ Recommended: 516.25
 [2022.09.27-02.38.28:952][749]LogSavePackage: Moving '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Saved/CastleEnviroment9F22F1EC4B126296AA874E9761E28507.tmp' to '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Content/Maps/CastleEnviroment.umap'
 [2022.09.27-02.38.29:080][749]AssetCheck: New page: Asset Save: CastleEnviroment
 [2022.09.27-02.38.29:080][749]LogContentValidation: Display: Validating World /Game/Maps/CastleEnviroment.CastleEnviroment
+[2022.09.27-02.47.18:447][474]LogViewport: Scene viewport resized to 2027x1164, mode Windowed.
+[2022.09.27-02.53.02:285][569]LogViewport: Scene viewport resized to 3051x1804, mode Windowed.
+[2022.09.27-02.53.05:118][688]LogViewport: Scene viewport resized to 2027x1164, mode Windowed.
+[2022.09.27-02.55.31:933][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.09.27-02.55.32:006][282]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnviroment
+[2022.09.27-02.55.32:034][282]LogSavePackage: Moving '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Saved/CastleEnviromentDF3FE1CA4090096CF6DC3C853DBDD251.tmp' to '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Content/Maps/CastleEnviroment.umap'
+[2022.09.27-02.55.32:178][282]AssetCheck: New page: Asset Save: CastleEnviroment
+[2022.09.27-02.55.32:178][282]LogContentValidation: Display: Validating World /Game/Maps/CastleEnviroment.CastleEnviroment
+[2022.09.27-02.55.33:893][372]LogViewport: Scene viewport resized to 3051x1804, mode Windowed.
