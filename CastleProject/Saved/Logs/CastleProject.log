@@ -9245,3 +9245,245 @@ Recommended: 516.25
 [2022.10.03-21.08.49:382][596]LogSavePackage: Moving '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Saved/CastleEnviroment0F37CB8D4534A90EBFDF63A23545E665.tmp' to '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Content/Maps/CastleEnviroment.umap'
 [2022.10.03-21.08.49:526][596]AssetCheck: New page: Asset Save: CastleEnviroment
 [2022.10.03-21.08.49:526][596]LogContentValidation: Display: Validating World /Game/Maps/CastleEnviroment.CastleEnviroment
+[2022.10.03-21.10.23:306][264]LogViewport: Scene viewport resized to 2339x1804, mode Windowed.
+[2022.10.03-21.10.27:902][420]LogEditorViewport: Clicking Background
+[2022.10.03-21.10.42:904][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.10.03-21.10.43:069][922]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.03-21.10.43:069][922]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnviroment
+[2022.10.03-21.10.43:100][922]LogSavePackage: Moving '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Saved/CastleEnviroment3EE13B754E792187D28AEDBFF307D9E1.tmp' to '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Content/Maps/CastleEnviroment.umap'
+[2022.10.03-21.10.43:242][922]AssetCheck: New page: Asset Save: CastleEnviroment
+[2022.10.03-21.10.43:242][922]LogContentValidation: Display: Validating World /Game/Maps/CastleEnviroment.CastleEnviroment
+[2022.10.03-21.11.04:964][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.10.03-21.11.05:125][147]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.03-21.11.05:125][147]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnviroment
+[2022.10.03-21.11.05:155][147]LogSavePackage: Moving '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Saved/CastleEnviroment8D52395049EB6F451F0DD9BEB66AC7D5.tmp' to '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Content/Maps/CastleEnviroment.umap'
+[2022.10.03-21.11.05:272][147]AssetCheck: New page: Asset Save: CastleEnviroment
+[2022.10.03-21.11.05:272][147]LogContentValidation: Display: Validating World /Game/Maps/CastleEnviroment.CastleEnviroment
+[2022.10.03-21.11.41:012][928]Cmd: TRANSACTION UNDO
+[2022.10.03-21.11.41:012][928]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.10.03-21.11.41:127][928]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.03-21.12.47:111][949]Cmd: TRANSACTION UNDO
+[2022.10.03-21.12.47:111][949]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.10.03-21.12.47:199][949]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.03-21.12.47:691][957]Cmd: TRANSACTION UNDO
+[2022.10.03-21.12.47:691][957]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.10.03-21.12.47:766][957]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.03-21.12.48:228][977]Cmd: TRANSACTION UNDO
+[2022.10.03-21.12.48:228][977]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.10.03-21.12.48:455][978]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.03-21.13.09:536][675]Cmd: TRANSACTION UNDO
+[2022.10.03-21.13.09:536][675]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2022.10.03-21.13.09:633][675]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.03-21.13.27:801][995]LogViewport: Scene viewport resized to 3051x1804, mode Windowed.
+[2022.10.03-21.13.29:491][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.10.03-21.13.29:660][ 39]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.03-21.13.29:661][ 39]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnviroment
+[2022.10.03-21.13.29:693][ 39]LogSavePackage: Moving '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Saved/CastleEnviroment34F2E92349EB9214910BF6913EDD9F8E.tmp' to '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Content/Maps/CastleEnviroment.umap'
+[2022.10.03-21.13.29:786][ 39]AssetCheck: New page: Asset Save: CastleEnviroment
+[2022.10.03-21.13.29:786][ 39]LogContentValidation: Display: Validating World /Game/Maps/CastleEnviroment.CastleEnviroment
+[2022.10.03-21.13.33:819][161]LogHttp: Warning: 000009F373F96900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8F9C9AE0-4859-1B0F-B8D6-889484458442%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=e84ee34644eb48634d54eea23cda1723%7C1d14822a7bc44be58542040ff818bc44%7C213c2ef5-fe2f-46eb-b273-fd106d329b60&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.03-21.13.33:819][161]LogHttp: Warning: 000009F373F96900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.10.03-21.13.33:819][161]LogHttp: Warning: 000009F373F96900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x9f3230e0000 [can pipeline])
+[2022.10.03-21.13.33:819][161]LogHttp: Warning: 000009F373F96900: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.10.03-21.13.33:819][161]LogHttp: Warning: 000009F373F96900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.85.104.166) port 443 (#0))
+[2022.10.03-21.13.33:819][161]LogHttp: Warning: 000009F373F96900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.03-21.13.33:819][161]LogHttp: Warning: 000009F373F96900: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.10.03-21.13.33:819][161]LogHttp: Warning: 000009F373F96900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.03-21.13.33:819][161]LogHttp: Warning: 000009F373F96900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.03-21.13.33:819][161]LogHttp: Warning: 000009F373F96900: libcurl info message cache 7 (Closing connection 0)
+[2022.10.03-21.13.33:819][161]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8F9C9AE0-4859-1B0F-B8D6-889484458442%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.3-20979098%2B%2B%2BUE5%2BRelease-5.0&UserID=e84ee34644eb48634d54eea23cda1723%7C1d14822a7bc44be58542040ff818bc44%7C213c2ef5-fe2f-46eb-b273-fd106d329b60&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.03-21.14.17:474][361]LogMaterial: Display: Missing cached shadermap for M_Water_Depth in PCD3D_SM5, Default, SM5 (DDC key hash: 0E293AC75EC05162262C688C8BD424FD06771B1F), compiling. 
+[2022.10.03-21.14.17:571][361]LogStaticMesh: Display: Building static mesh SM_WaterPlane...
+[2022.10.03-21.14.17:643][361]LogStaticMesh: Built static mesh [0.06s] /Game/CastleAssets/Meshes/SM_WaterPlane.SM_WaterPlane
+[2022.10.03-21.14.18:223][408]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_WaterPlane.SM_WaterPlane
+[2022.10.03-21.14.18:223][408]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_WaterPlane.SM_WaterPlane
+[2022.10.03-21.14.18:224][408]LogActorFactory: Actor Factory spawned StaticMesh /Game/CastleAssets/Meshes/SM_WaterPlane.SM_WaterPlane as actor: StaticMeshActor /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.StaticMeshActor_10
+[2022.10.03-21.14.19:119][443]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_WaterPlane.SM_WaterPlane
+[2022.10.03-21.14.19:120][443]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/CastleAssets/Meshes/SM_WaterPlane.SM_WaterPlane
+[2022.10.03-21.14.19:121][443]LogActorFactory: Actor Factory spawned StaticMesh /Game/CastleAssets/Meshes/SM_WaterPlane.SM_WaterPlane as actor: StaticMeshActor /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.StaticMeshActor_11
+[2022.10.03-21.14.20:094][470]LogShaderCompilers: Display: ================================================
+[2022.10.03-21.14.20:094][470]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.03-21.14.20:094][470]LogShaderCompilers: Display: Total job queries 534, among them cache hits 3 (0.56%)
+[2022.10.03-21.14.20:094][470]LogShaderCompilers: Display: Tracking 478 distinct input hashes that result in 232 distinct outputs (48.54%)
+[2022.10.03-21.14.20:094][470]LogShaderCompilers: Display: RAM used: 0.70 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.04%
+[2022.10.03-21.14.20:094][470]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.03-21.14.20:094][470]LogShaderCompilers: Display: Shaders Compiled: 513
+[2022.10.03-21.14.20:094][470]LogShaderCompilers: Display: Jobs assigned 505, completed 478 (94.65%)
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display: Average time worker was idle: 289.57 s
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display: Time job spent in pending queue: average 7.14 s, longest 27.03 s
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display: Job execution time: average 6.67 s, max 11.27 s
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display: Job life time (pending + execution): average 14.21 s, max 28.18
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 58.48 s
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display: Jobs were issued in 146 batches (only local compilation was used), average 3.46 jobs/batch
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display: Average processing rate: 8.17 jobs/sec
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display: Effective parallelization: 8.77 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled    2 times, average 2.94 sec, max 4.65 sec, min 1.23 sec)
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display:                                 TBasePassPSTLightMapPolicyHQ (compiled    2 times, average 2.72 sec, max 3.29 sec, min 2.15 sec)
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display:                                 TBasePassVSTLightMapPolicyLQ (compiled    1 times, average 2.67 sec, max 2.67 sec, min 2.67 sec)
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display:  TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQSkylight (compiled    2 times, average 2.45 sec, max 3.51 sec, min 1.39 sec)
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled    2 times, average 1.96 sec, max 2.71 sec, min 1.22 sec)
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.68% of total time (compiled   39 times, average 1.27 sec, max 1.55 sec, min 0.80 sec)
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display:                                             FDebugViewModePS - 9.45% of total time (compiled   35 times, average 1.39 sec, max 4.77 sec, min 0.90 sec)
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.84% of total time (compiled   41 times, average 1.11 sec, max 4.25 sec, min 0.71 sec)
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.36% of total time (compiled   39 times, average 1.10 sec, max 1.38 sec, min 0.78 sec)
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display:                                             FDebugViewModeVS - 7.54% of total time (compiled   32 times, average 1.21 sec, max 2.10 sec, min 0.89 sec)
+[2022.10.03-21.14.20:095][470]LogShaderCompilers: Display: ================================================
+[2022.10.03-21.14.24:059][604]LogDerivedDataCache: C:/Users/WUStudent/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.083 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.03-21.15.22:671][711]LogViewport: Scene viewport resized to 2339x1804, mode Windowed.
+[2022.10.03-21.15.28:014][885]LogViewport: Scene viewport resized to 3051x1804, mode Windowed.
+[2022.10.03-21.15.45:366][377]LogEditorViewport: Clicking Background
+[2022.10.03-21.15.47:288][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.10.03-21.15.47:452][427]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.03-21.15.47:452][427]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnviroment
+[2022.10.03-21.15.47:483][427]LogSavePackage: Moving '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Saved/CastleEnviroment0636B6FE400E133E53ED9F8E567C040C.tmp' to '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Content/Maps/CastleEnviroment.umap'
+[2022.10.03-21.15.47:617][427]AssetCheck: New page: Asset Save: CastleEnviroment
+[2022.10.03-21.15.47:618][427]LogContentValidation: Display: Validating World /Game/Maps/CastleEnviroment.CastleEnviroment
+[2022.10.03-21.16.23:222][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.03-21.16.23:364][217]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnviroment
+[2022.10.03-21.16.23:395][217]LogSavePackage: Moving '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Saved/CastleEnviroment8E8A7AB74B541D53A0979A860F757246.tmp' to '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Content/Maps/CastleEnviroment.umap'
+[2022.10.03-21.16.23:476][217]AssetCheck: New page: Asset Save: CastleEnviroment
+[2022.10.03-21.16.23:476][217]LogContentValidation: Display: Validating World /Game/Maps/CastleEnviroment.CastleEnviroment
+[2022.10.03-21.16.26:834][317]LogEditorViewport: Clicking Background
+[2022.10.03-21.16.42:303][416]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.10.03-21.16.42:447][416]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnviroment
+[2022.10.03-21.16.42:480][416]LogSavePackage: Moving '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Saved/CastleEnviroment4B154FF54210956FE54C21BBD6FD0647.tmp' to '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Content/Maps/CastleEnviroment.umap'
+[2022.10.03-21.16.42:622][416]AssetCheck: New page: Asset Save: CastleEnviroment
+[2022.10.03-21.16.42:622][416]LogContentValidation: Display: Validating World /Game/Maps/CastleEnviroment.CastleEnviroment
+[2022.10.03-21.19.53:975][116]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/CastleAssets/Materials/M_Water_Depth_Inst.M_Water_Depth_Inst
+[2022.10.03-21.19.54:001][116]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.03-21.19.54:057][116]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2022.10.03-21.19.54:076][116]LogTexture: Display: Waiting for textures to be ready 0/1 (/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1) ...
+[2022.10.03-21.19.54:496][116]LogViewport: Scene viewport resized to 1729x1076, mode Windowed.
+[2022.10.03-21.19.54:876][116]LogSlate: Took 0.000385 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.03-21.20.04:226][470]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.03-21.20.13:981][701]LogViewport: Scene viewport resized to 1730x1076, mode Windowed.
+[2022.10.03-21.20.14:131][701]LogViewport: Scene viewport resized to 1289x1076, mode Windowed.
+[2022.10.03-21.20.14:281][701]LogViewport: Scene viewport resized to 711x1076, mode Windowed.
+[2022.10.03-21.20.14:381][701]LogViewport: Scene viewport resized to 647x1076, mode Windowed.
+[2022.10.03-21.20.14:532][701]LogViewport: Scene viewport resized to 505x1076, mode Windowed.
+[2022.10.03-21.20.14:849][701]LogViewport: Scene viewport resized to 504x1076, mode Windowed.
+[2022.10.03-21.20.14:947][701]LogViewport: Scene viewport resized to 509x1076, mode Windowed.
+[2022.10.03-21.20.15:047][701]LogViewport: Scene viewport resized to 646x1076, mode Windowed.
+[2022.10.03-21.20.15:164][701]LogViewport: Scene viewport resized to 740x1076, mode Windowed.
+[2022.10.03-21.20.15:298][701]LogViewport: Scene viewport resized to 904x1076, mode Windowed.
+[2022.10.03-21.20.15:431][701]LogViewport: Scene viewport resized to 918x1076, mode Windowed.
+[2022.10.03-21.20.15:548][701]LogViewport: Scene viewport resized to 922x1076, mode Windowed.
+[2022.10.03-21.20.23:779][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.10.03-21.20.23:901][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.10.03-21.20.23:933][981]LogSavePackage: Moving output files for package: /Game/CastleAssets/Materials/M_Water_Depth_Inst
+[2022.10.03-21.20.23:945][981]LogSavePackage: Moving '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Saved/M_Water_Depth_Inst400AFAD440131D478FFD3CB83C82C4CE.tmp' to '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Content/CastleAssets/Materials/M_Water_Depth_Inst.uasset'
+[2022.10.03-21.20.23:982][981]AssetCheck: New page: Asset Save: M_Water_Depth_Inst
+[2022.10.03-21.20.23:982][981]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/CastleAssets/Materials/M_Water_Depth_Inst.M_Water_Depth_Inst
+[2022.10.03-21.20.34:198][276]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.03-21.20.45:361][604]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.03-21.21.04:078][214]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.03-21.21.12:907][487]LogSlate: Window 'Details' being destroyed
+[2022.10.03-21.21.15:533][556]LogViewport: Scene viewport resized to 923x1076, mode Windowed.
+[2022.10.03-21.21.15:668][556]LogViewport: Scene viewport resized to 1378x1076, mode Windowed.
+[2022.10.03-21.21.15:767][556]LogViewport: Scene viewport resized to 1546x1076, mode Windowed.
+[2022.10.03-21.21.15:901][556]LogViewport: Scene viewport resized to 1562x1076, mode Windowed.
+[2022.10.03-21.21.16:052][556]LogViewport: Scene viewport resized to 1564x1076, mode Windowed.
+[2022.10.03-21.21.16:151][556]LogViewport: Scene viewport resized to 1565x1076, mode Windowed.
+[2022.10.03-21.21.16:217][556]LogViewport: Scene viewport resized to 1563x1076, mode Windowed.
+[2022.10.03-21.21.16:317][556]LogViewport: Scene viewport resized to 1540x1076, mode Windowed.
+[2022.10.03-21.21.16:433][556]LogViewport: Scene viewport resized to 1474x1076, mode Windowed.
+[2022.10.03-21.21.16:534][556]LogViewport: Scene viewport resized to 1387x1076, mode Windowed.
+[2022.10.03-21.21.16:634][556]LogViewport: Scene viewport resized to 1352x1076, mode Windowed.
+[2022.10.03-21.21.24:487][796]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2022.10.03-21.21.24:631][796]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnviroment
+[2022.10.03-21.21.24:661][796]LogSavePackage: Moving '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Saved/CastleEnviroment24559AA34A68336A5DDA0DA88BFB466F.tmp' to '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Content/Maps/CastleEnviroment.umap'
+[2022.10.03-21.21.24:753][796]AssetCheck: New page: Asset Save: CastleEnviroment
+[2022.10.03-21.21.24:753][796]LogContentValidation: Display: Validating World /Game/Maps/CastleEnviroment.CastleEnviroment
+[2022.10.03-21.22.28:401][ 66]LogSlate: Window 'M_Water_Depth_Inst' being destroyed
+[2022.10.03-21.22.28:408][ 66]LogSlate: Window 'M_Water_Depth_Inst' being destroyed
+[2022.10.03-21.22.28:418][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.10.03-21.22.28:502][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.10.03-21.22.28:607][ 66]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.10.03-21.22.28:607][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.03-21.22.59:331][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.10.03-21.22.59:478][920]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnviroment
+[2022.10.03-21.22.59:510][920]LogSavePackage: Moving '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Saved/CastleEnviroment15FBBFE94D80D356182A78A09402FACA.tmp' to '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Content/Maps/CastleEnviroment.umap'
+[2022.10.03-21.22.59:614][920]AssetCheck: New page: Asset Save: CastleEnviroment
+[2022.10.03-21.22.59:614][920]LogContentValidation: Display: Validating World /Game/Maps/CastleEnviroment.CastleEnviroment
+[2022.10.03-21.24.10:840][260]LogViewport: Scene viewport resized to 2339x1804, mode Windowed.
+[2022.10.03-21.24.17:638][493]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2022.10.03-21.24.18:818][537]LogShaderCompilers: Display: ================================================
+[2022.10.03-21.24.18:818][537]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: Total job queries 539, among them cache hits 8 (1.48%)
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: Tracking 505 distinct input hashes that result in 250 distinct outputs (49.50%)
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: RAM used: 0.81 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.05%
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: Shaders Compiled: 515
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: Jobs assigned 505, completed 505 (100.00%)
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: Average time worker was idle: 289.57 s
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: Time job spent in pending queue: average 7.14 s, longest 27.03 s
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: Job execution time: average 6.80 s, max 16.43 s
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: Job life time (pending + execution): average 13.94 s, max 28.18
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 72.46 s
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: Jobs were issued in 146 batches (only local compilation was used), average 3.46 jobs/batch
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: Average processing rate: 6.97 jobs/sec
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: Effective parallelization: 8.15 (times faster than compiling all shaders on one thread). Compare with number of workers: 12
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display:     TBasePassPSFSelfShadowedVolumetricLightmapPolicySkylight (compiled    1 times, average 6.22 sec, max 6.22 sec, min 6.22 sec)
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display:    TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicy (compiled    1 times, average 5.41 sec, max 5.41 sec, min 5.41 sec)
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display:                   TBasePassPSFSelfShadowedTranslucencyPolicy (compiled    1 times, average 5.28 sec, max 5.28 sec, min 5.28 sec)
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    1 times, average 4.96 sec, max 4.96 sec, min 4.96 sec)
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display:           TBasePassPSFSelfShadowedTranslucencyPolicySkylight (compiled    1 times, average 4.81 sec, max 4.81 sec, min 4.81 sec)
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.66% of total time (compiled   42 times, average 1.22 sec, max 5.82 sec, min 0.71 sec)
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.55% of total time (compiled   40 times, average 1.26 sec, max 1.55 sec, min 0.80 sec)
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display:                                             FDebugViewModePS - 8.21% of total time (compiled   35 times, average 1.39 sec, max 4.77 sec, min 0.90 sec)
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.49% of total time (compiled   40 times, average 1.11 sec, max 1.38 sec, min 0.78 sec)
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display:                                             FDebugViewModeVS - 6.73% of total time (compiled   33 times, average 1.20 sec, max 2.10 sec, min 0.89 sec)
+[2022.10.03-21.24.18:819][537]LogShaderCompilers: Display: ================================================
+[2022.10.03-21.24.28:060][821]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_481 in PCD3D_SM5, Default, SM5 (DDC key hash: DC2D05F5A7F4641AD9F96886ACEB5AE581B35C4C), compiling. 
+[2022.10.03-21.24.28:185][824]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2022.10.03-21.25.29:184][754]Cmd: TRANSACTION UNDO
+[2022.10.03-21.25.29:184][754]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.03-21.25.29:366][754]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Weightmap_36 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.03-21.25.38:918][ 36]Cmd: TRANSACTION UNDO
+[2022.10.03-21.25.38:919][ 36]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.03-21.25.39:084][ 36]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Weightmap_36 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.03-21.26.14:071][197]Cmd: TRANSACTION UNDO
+[2022.10.03-21.26.14:071][197]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.03-21.26.14:252][197]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Weightmap_36 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.03-21.26.24:326][514]Cmd: TRANSACTION UNDO
+[2022.10.03-21.26.24:326][514]LogEditorTransaction: Undo Landscape Editing: Paint
+[2022.10.03-21.26.24:502][514]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Weightmap_36 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.03-21.26.55:165][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.10.03-21.26.55:171][401]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Weightmap_11 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.03-21.26.55:322][401]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Weightmap_36 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.03-21.26.55:322][401]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnviroment
+[2022.10.03-21.26.55:352][401]LogSavePackage: Moving '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Saved/CastleEnviromentAE029C91480BE0D33DDFA6BF18D26662.tmp' to '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Content/Maps/CastleEnviroment.umap'
+[2022.10.03-21.26.55:454][401]AssetCheck: New page: Asset Save: CastleEnviroment
+[2022.10.03-21.26.55:454][401]LogContentValidation: Display: Validating World /Game/Maps/CastleEnviroment.CastleEnviroment
+[2022.10.03-21.27.35:923][628]LogViewport: Scene viewport resized to 3051x1804, mode Windowed.
+[2022.10.03-21.27.36:591][643]LogViewport: Scene viewport resized to 2339x1804, mode Windowed.
+[2022.10.03-21.28.15:023][957]Cmd: TRANSACTION UNDO
+[2022.10.03-21.28.15:023][957]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2022.10.03-21.28.36:106][677]LogViewport: Scene viewport resized to 3051x1804, mode Windowed.
+[2022.10.03-21.29.01:272][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.10.03-21.29.01:442][422]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.03-21.29.01:442][422]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnviroment
+[2022.10.03-21.29.01:473][422]LogSavePackage: Moving '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Saved/CastleEnviroment251F6CA84A022CB1400BE2BB89DF3A2C.tmp' to '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Content/Maps/CastleEnviroment.umap'
+[2022.10.03-21.29.01:640][422]AssetCheck: New page: Asset Save: CastleEnviroment
+[2022.10.03-21.29.01:640][422]LogContentValidation: Display: Validating World /Game/Maps/CastleEnviroment.CastleEnviroment
+[2022.10.03-21.29.04:201][499]LogViewport: Scene viewport resized to 2339x1804, mode Windowed.
+[2022.10.03-21.29.23:388][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.10.03-21.29.23:395][154]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Weightmap_10 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.03-21.29.23:400][154]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Weightmap_36 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.03-21.29.23:558][154]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Weightmap_37 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.03-21.29.23:559][154]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnviroment
+[2022.10.03-21.29.23:594][154]LogSavePackage: Moving '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Saved/CastleEnviroment9EDC93974D74DC7F7CBF739B4F485023.tmp' to '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Content/Maps/CastleEnviroment.umap'
+[2022.10.03-21.29.23:677][154]AssetCheck: New page: Asset Save: CastleEnviroment
+[2022.10.03-21.29.23:677][154]LogContentValidation: Display: Validating World /Game/Maps/CastleEnviroment.CastleEnviroment
+[2022.10.03-21.30.01:639][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.10.03-21.30.01:656][427]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512X512 X1X1) (Required Memory Estimate: 6.66666 MB), EncodeSpeed: Fast
+[2022.10.03-21.30.01:658][427]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Weightmap_36 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.03-21.30.01:818][427]LogTexture: Display: Building textures: /Game/Maps/CastleEnviroment.CastleEnviroment:PersistentLevel.Landscape_0.Weightmap_37 (BGRA8, 64X64 X1X1) (Required Memory Estimate: 0.10416 MB), EncodeSpeed: Fast
+[2022.10.03-21.30.01:836][427]LogSavePackage: Moving output files for package: /Game/Maps/CastleEnviroment
+[2022.10.03-21.30.01:864][427]LogSavePackage: Moving '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Saved/CastleEnviroment21C0524F446604A6B1FD57B10F9BCB48.tmp' to '../../../../../../Users/WUStudent/Documents/GitHub/Unreal-Homework-Castle-Onwards/CastleProject/Content/Maps/CastleEnviroment.umap'
+[2022.10.03-21.30.01:966][427]AssetCheck: New page: Asset Save: CastleEnviroment
+[2022.10.03-21.30.01:966][427]LogContentValidation: Display: Validating World /Game/Maps/CastleEnviroment.CastleEnviroment
